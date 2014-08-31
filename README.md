@@ -14,3 +14,7 @@ Simple application that password protects any file.
 - Updated the hashing method from SHA1 to SHA3.
 - Updated deprecated methods.
 - Updated const correctness.
+
+##Application
+
+[![Click here to view the image!](http://s27.postimg.org/9cd4isf1f/fotografia3.png)](http://s27.postimg.org/9cd4isf1f/fotografia3.png)
